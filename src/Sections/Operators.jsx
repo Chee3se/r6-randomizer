@@ -37,6 +37,18 @@ export default function Operators() {
         localStorage.setItem('clickedImages', JSON.stringify(clickedImages));
     }, [clickedImages]);
 
+    useEffect(() => {
+        const allNames = [...attackers, ...defenders];
+        const allImages = allNames.flatMap(name => [
+            `./icons/${view}/${removeAccents(name)}badge.png`,
+            `./images/${view}/${removeAccents(name)}.png`
+        ]);
+        allImages.forEach(src => {
+            const img = new Image();
+            img.src = src;
+        });
+    }, []);
+
     function removeAccents(str) {
         return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ø/g, 'o').replace(/Ø/g, 'O').toLowerCase();
     }
