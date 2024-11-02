@@ -1,3 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Rainbow';
+  src: url('/public/rainbow.woff2') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.rainbow {
+  font-family: 'Rainbow', sans-serif;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +25,10 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.bg-image {
+  background-image: url('/public/bg.jpg');
+  background-size: cover;
+  background-position: center;
 }

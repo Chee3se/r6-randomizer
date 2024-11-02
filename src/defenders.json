@@ -1,0 +1,3638 @@
+[
+  {
+    "name": "Smoke",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C",
+            "Scope 1.5x"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "FMG-9"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M590A1"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P226 Mk 25"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "No Grip",
+            "Vertical Grip"
+          ],
+          "name": "SMG-11"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Proximity Alarm"
+      }
+    ]
+  },
+  {
+    "name": "Castle",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "5.7 USG"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M1014"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "UMP45"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Bulletproof Camera"
+      }
+    ]
+  },
+  {
+    "name": "Pulse",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "5.7 USG"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M45 MEUSOC"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M1014"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "UMP45"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Nitro Cell"
+      },
+      {
+        "name": "Deployable Shield"
+      },
+      {
+        "name": "Observation Blocker"
+      }
+    ]
+  },
+  {
+    "name": "Doc",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Bailiff 410"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "LFP586"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P9"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "MP5"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "P90"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "SG-CQB"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Bulletproof Camera"
+      }
+    ]
+  },
+  {
+    "name": "Rook",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "LFP586"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P9"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "MP5"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P90"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "SG-CQB"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Observation Blocker"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Kapkan",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "9x19VSN"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "SASG-12"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "GSH 18"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "PMM"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Nitro Cell"
+      },
+      {
+        "name": "Bulletproof Camera"
+      }
+    ]
+  },
+  {
+    "name": "Tachanka",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "9x19VSN"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "DP27"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Bearing9"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "GSH 18"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "PMM"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Deployable Shield"
+      }
+    ]
+  },
+  {
+    "name": "Jäger",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "416-C Carbine"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M870"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P12"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Observation Blocker"
+      }
+    ]
+  },
+  {
+    "name": "Bandit",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M870"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "MP7"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P12"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Nitro Cell"
+      }
+    ]
+  },
+  {
+    "name": "Frost",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "9mm C1"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Super 90"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "ITA12S"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Mk1 9mm"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Bulletproof Camera"
+      },
+      {
+        "name": "Deployable Shield"
+      }
+    ]
+  },
+  {
+    "name": "Valkyrie",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "D-50"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "MPX"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Flash Hilder",
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "SPAS-12"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Nitro Cell"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Caveira",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Luison"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M12"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "SPAS-15"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Observation Blocker"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Echo",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Bearing9"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P229"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "Mp5SD"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "SuperNova"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Deployable Shield"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Mira",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "ITA12L"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "No Grip",
+            "Vertical Grip"
+          ],
+          "name": "Vector .45 ACP"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "USP40"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Nitro Cell"
+      }
+    ]
+  },
+  {
+    "name": "Lesion",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Q-929"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Super Shorty"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "SIX12 SD"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "T-5 SMG"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Bulletproof Camera"
+      },
+      {
+        "name": "Observation Blocker"
+      }
+    ]
+  },
+  {
+    "name": "Ela",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Extended Barrel",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "Fo-12"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "Scorpion EVO 3 A1"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "RG15"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Deployable Shield"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Vigil",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "BOSG.12.2"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "K1A"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "C75 Auto"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "Angled Grip",
+            "No Grip",
+            "Vertical Grip"
+          ],
+          "name": "SMG-12"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Bulletproof Camera"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Maestro",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "ACS12"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "ALDA 5.56"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Bailiff 410"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Keratos .357"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Observation Blocker"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Alibi",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "ACS12"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "Mx4 Storm"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Bailiff 410"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Keratos .357"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Observation Blocker"
+      }
+    ]
+  },
+  {
+    "name": "Clash",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "CCE Shield"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P-10C"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "SPSMG9"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Super Shorty"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Deployable Shield"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Kaid",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": ".44 MAG SEMI-AUTO"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "LFP586"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "Aug A3"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "TCSG12"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Nitro Cell"
+      },
+      {
+        "name": "Observation Blocker"
+      }
+    ]
+  },
+  {
+    "name": "Mozzie",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "Commando 9"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C",
+            "Scope 1.5x"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "P10 RONI"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "SDP 9mm"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Nitro Cell"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Warden",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M590A1"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "MPX"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P-10C"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "Angled Grip",
+            "No Grip",
+            "Vertical Grip"
+          ],
+          "name": "SMG-12"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Nitro Cell"
+      },
+      {
+        "name": "Deployable Shield"
+      },
+      {
+        "name": "Observation Blocker"
+      }
+    ]
+  },
+  {
+    "name": "Goyo",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P229"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C",
+            "Scope 1.5x"
+          ],
+          "attachments": [
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "TCSG12"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "Vector .45 ACP"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Bulletproof Camera"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Wamai",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "AUG A2"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "MP5K"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Keratos .357"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P12"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Oryx",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Bailiff 410"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "USP40"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "SPAS-12"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "T-5 SMG"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Proximity Alarm"
+      }
+    ]
+  },
+  {
+    "name": "Melusi",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "ITA12S"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "RG15"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "MP5"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Super 90"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Bulletproof Camera"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Aruni",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "No Grip",
+            "Vertical Grip"
+          ],
+          "name": "Mk 14 EBR"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "P10 RONI"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "PRB92"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Bulletproof Camera"
+      }
+    ]
+  },
+  {
+    "name": "Thunderbird",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Bearing9"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Q-929"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "SPAS-15"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "Spear .308"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Bulletproof Camera"
+      },
+      {
+        "name": "Deployable Shield"
+      }
+    ]
+  },
+  {
+    "name": "Thorn",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "1911 TACOPS"
+        },
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "C75 Auto"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M870"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "UZK50GI"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Deployable Shield"
+      }
+    ]
+  },
+  {
+    "name": "Azami",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "9x19VSN"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "ACS12"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "D-50"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Solis",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "ITA12L"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "P90"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "No Grip",
+            "Vertical Grip"
+          ],
+          "name": "SMG-11"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Bulletproof Camera"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Fenrir",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Bailiff 410"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "MP7"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "SASG-12"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Bulletproof Camera"
+      }
+    ]
+  },
+  {
+    "name": "Mute",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M590A1"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "MP5K"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P226 Mk 25"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "No Grip",
+            "Vertical Grip"
+          ],
+          "name": "SMG-11"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Nitro Cell"
+      },
+      {
+        "name": "Bulletproof Camera"
+      }
+    ]
+  },
+  {
+    "name": "Tubarão",
+    "weapons": {
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "Maggnified A",
+            "Maggnified B",
+            "Maggnified C",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "AR-15.50"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "No Grip",
+            "Vertical Grip"
+          ],
+          "name": "MPX"
+        }
+      ],
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P226 Mk 25"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Nitro Cell"
+      }
+    ]
+  },
+  {
+    "name": "Sentry",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "C75 Auto"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "Super Shorty"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Extended Barrel",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "Vertical Grip"
+          ],
+          "name": "Commando 9"
+        },
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "No Attachment"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "M870"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Barbed Wire"
+      },
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Nitro Cell"
+      },
+      {
+        "name": "Bulletproof Camera"
+      },
+      {
+        "name": "Deployable Shield"
+      },
+      {
+        "name": "Observation Blocker"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  },
+  {
+    "name": "Skopós",
+    "weapons": {
+      "secondary": [
+        {
+          "scopes": [
+            "No Scope"
+          ],
+          "attachments": [
+            "Muzzle Brake",
+            "No Attachment",
+            "Suppressor"
+          ],
+          "grips": [
+            "No Grip"
+          ],
+          "name": "P229"
+        }
+      ],
+      "primary": [
+        {
+          "scopes": [
+            "Holo A",
+            "Holo B",
+            "Holo C",
+            "Holo D",
+            "No Scope",
+            "Red Dot A",
+            "Red Dot B",
+            "Red Dot C",
+            "Reflex A",
+            "Reflex B",
+            "Reflex C"
+          ],
+          "attachments": [
+            "Compensator",
+            "Flash Hilder",
+            "Muzzle Brake",
+            "No Attachment"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Horizontal Grip",
+            "No Grip",
+            "Vertical Grip"
+          ],
+          "name": "PCX-33"
+        }
+      ]
+    },
+    "gadgets": [
+      {
+        "name": "Proximity Alarm"
+      },
+      {
+        "name": "Impact Grenade"
+      }
+    ]
+  }
+]
