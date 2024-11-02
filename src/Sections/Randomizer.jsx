@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import defenders from '../defenders.json'; // Import the defenders data
-import attackers from '../attackers.json'; // Import the attackers data
+import defenders from '../defenders.json';
+import attackers from '../attackers.json';
 
 export default function Randomizer() {
     const [randomOperator, setRandomOperator] = useState(null);
     const [type, setType] = useState('attackers');
+    const [strategy, setStrategy] = useState('');
 
     const getRandomItem = (items) => items[Math.floor(Math.random() * items.length)];
 
@@ -12,7 +13,13 @@ export default function Randomizer() {
         const primaryWeapon = getRandomItem(operator.weapons.primary);
         const secondaryWeapon = getRandomItem(operator.weapons.secondary);
         const gadget = getRandomItem(operator.gadgets);
-        const strategy = type === 'attackers' ? getRandomItem(['Rush', 'Slow Push']) : getRandomItem(['Anchor', 'Roam']);
+        let additionalGadget = null;
+
+        if (operator.name === 'Sentry' || operator.name === 'Striker') {
+            do {
+                additionalGadget = getRandomItem(operator.gadgets);
+            } while (additionalGadget === gadget);
+        }
 
         return {
             name: operator.name,
@@ -29,7 +36,7 @@ export default function Randomizer() {
                 grip: getRandomItem(secondaryWeapon.grips),
             },
             gadget: gadget.name,
-            strategy: strategy,
+            additionalGadget: additionalGadget ? additionalGadget.name : null,
         };
     };
 
@@ -42,6 +49,8 @@ export default function Randomizer() {
             const randomOperator = getRandomItem(filteredOperators);
             setRandomOperator(getRandomAttributes(randomOperator));
         }
+        const newStrategy = type === 'attackers' ? getRandomItem(['Rush', 'Slow Push']) : getRandomItem(['Anchor', 'Roam']);
+        setStrategy(newStrategy);
     };
 
     function removeAccents(str) {
@@ -87,7 +96,8 @@ export default function Randomizer() {
                             </div>
                             <div className="flex flex-col gap-3">
                                 <p className="font-semibold text-2xl">{randomOperator.gadget}</p>
-                                <p className="font-semibold text-2xl">{randomOperator.strategy}</p>
+                                {randomOperator.additionalGadget && <p className="font-semibold text-2xl">{randomOperator.additionalGadget}</p>}
+                                <p className="font-semibold text-2xl">{strategy}</p>
                             </div>
                         </div>
                     </div>

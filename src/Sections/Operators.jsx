@@ -49,11 +49,12 @@ export default function Operators() {
 
     const handleSelectAll = () => {
         const allNames = view === 'attackers' ? attackers : defenders;
-        setClickedImages(allNames);
+        setClickedImages((prev) => [...new Set([...prev, ...allNames])]);
     };
 
     const handleDeselectAll = () => {
-        setClickedImages([]);
+        const allNames = view === 'attackers' ? attackers : defenders;
+        setClickedImages((prev) => prev.filter((img) => !allNames.includes(img)));
     };
 
     return (
@@ -75,8 +76,8 @@ export default function Operators() {
                 </button>
             </div>
             <div className="flex justify-center mb-4 gap-4">
-                <button onClick={handleSelectAll} className="px-4 py-2 bg-red-500 text-white rounded-lg shadow-lg hover:bg-red-600 transition-transform transform hover:scale-105">Deselect All</button>
                 <button onClick={handleDeselectAll} className="px-4 py-2 bg-green-500 text-white rounded-lg shadow-lg hover:bg-green-600 transition-transform transform hover:scale-105">Select All</button>
+                <button onClick={handleSelectAll} className="px-4 py-2 bg-red-500 text-white rounded-lg shadow-lg hover:bg-red-600 transition-transform transform hover:scale-105">Deselect All</button>
             </div>
             <div className="grid grid-cols-8">
                 {(view === 'attackers' ? attackers : defenders).map((name, index) => (
