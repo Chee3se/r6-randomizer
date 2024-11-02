@@ -45,7 +45,7 @@ export default function Randomizer() {
     };
 
     function removeAccents(str) {
-        return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ø/g, 'o').replace(/Ø/g, 'O');
+        return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ø/g, 'o').replace(/Ø/g, 'O').toLowerCase();
     }
 
     return (
